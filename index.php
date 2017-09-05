@@ -1,8 +1,8 @@
 <?php
 
-//Bu dosya version 1.0.0
+//Bu dosya version 1.0.1
 
-Dosya içinde veriler mevcut
+Dosya içinde veriler mevcut ve yenilendi.
 
 
 ?>
